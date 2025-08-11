@@ -11,3 +11,4 @@ Tips:
 - Lägg till fler produkter genom att kopiera ett `.card`-block på respektive varumärkessida.
 
 Senast uppdaterad: 2025-08-11.
+
